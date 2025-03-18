@@ -1,0 +1,5 @@
+The evidence in Source 3 supports Joseph LeDoux's Dual Pathway Theory. Its results stated that "Individuals exposed to high levels of chronic stress exhibited deficets in attention, memory, and executive functioning, as well as heightened emotional reactivity and maladaptive coping strategies". 
+
+This emphasizes the neurological basis of stress. Information goes to the cerebral cortex to be processed. The key region here is the [[Prefrontal cortex]]. Attention and executive functioning are primarily located here. The [[mPFC]] is also very important in general regulation of the [[amygdala]], affecting emotional reactivity, and the [[Ventrolateral Prefrontal Cortex|vlPFC]] is important in coping strategies as it works with the amygdala to aid in conscious reappraisal. 
+
+The conclusion to be drawn from this data is that several symptoms that implied impaired functioning in the PFC correlate to chronic stress. LeDoux's "high-road" explains this. Emotions can be procecessed in the cerebral cortex. When the emotions are not processed well, because of impaired functioning, the result is chronic stress. 

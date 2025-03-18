@@ -1,0 +1,1 @@
+This [[Cluster C Personality Disorders|cluster C]] personality [[psychological disorder|disorder]] is characterized by a *need to be take care of*, manifesting as *submissive behavior*, *emotional neediness* and *fear of separation*

@@ -1,0 +1,1 @@
+The elaboration likelihood model suggests that when we actively process a message, through mental elaboration, we more often retain it.

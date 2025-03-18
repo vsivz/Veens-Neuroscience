@@ -1,0 +1,16 @@
+(A) Identify the research method used in the study.
+(B) State the operational definition of stigma in this study.
+(C) Describe the meaning of correlation coefficient in this study.
+(D) Identify at least one ethical guideline applied by the researchers.
+(E) Explain the extent to which the research findings may or may not be generalizable using specific
+and relevant evidence from the study.
+(F) Explain how at least one of the research findings supports or refutes the hypothesis that higher
+stigma levels are associated with lower therapy openness.
+
+(A) The research method is correlational. There were no variables manipulated, the researchers just measured the participants' GTAM scores and attendance.
+B) Stigma was operationally defined as the measurements of perceptions of stigma related to therapy measured by a Stigma Inventory (SI), which included statements like "Group therapy is a sign of weakness", and returned scores ranging from 0 to 50, with higher scores indicating greater stigma.
+C) The correlational coefficient, r, was -0.72 in this study. This means that there is a pretty strong negative correlation between stigma and therapy attendance, that is, greater stigma was associated with lower therapy attendance.
+D) One ethical guideline applied by the researchers was obtaining written informed consent, so all of the participants knew what they had signed up for, and all possible risks. 
+E) The research findings may be mostly generalizable. There was a wide range of ages, which helps to reduce bias from older individuals being more stubborn in their skepticism towards therapy. There was also a wide range of ethnicities, and employment statuses to help reduce bias from many of these factors. However, those who had scheduling conflicts were not considered, which may have missed a unique demographic, of 'workaholics', who spent significant time at work, which would likely have some influence on their perceptions of mental health. 
+F) One of the research findings mildly supports the hypothesis. This finding is that there was a negative correlation between Stigma scores and therapy attendance, supporting the hypothesis that higher stigma would lead to lower therapy participation. However, there were other factors that reduce the validity of this result. First of all, while informed consent is important, it may have created a social desirability bias, where respondents would over-report positive attitudes to therapy, especially while surrounded by psychological professionals. Furthermore, the Stigma score measured the individual's own *internalized* Stigma perceptions. However, even if an individual does not stigmatize therapy themselves, the stigma scores of those in their environment may affect their decision. Someone who believes in therapy may choose not to attend due to the social stigma of their friends. This is an additional confounding variable that affects the validity of these responses, especially when considering that one who supports therapy would be more likely to be friends with other individuals who also like therapy, and this normative social influence could intensify results. 
+To conclude, one of the research findings can support the hypothesis, but it may not be to a large extent, as it does not have high validity,

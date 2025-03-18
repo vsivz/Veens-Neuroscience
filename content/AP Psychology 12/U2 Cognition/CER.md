@@ -1,0 +1,7 @@
+Upon careful considertation of the accuracy of intelligence tests, it is clear that intelligence tests do not accurately reflect the cognitive abilities of test-takers. 
+
+For example, "Resuts indicate moderate to strong correlation between intelligence test scores and academic achievement outcomes, with higher test scores generally associated with better academic performance. However, the study also identifies limitations in the predicitive accuracy of intelligence tests, particularily for students from disadvantaged backgrounds or with specific learning needs" (Source 2). 
+
+The evidence supports the claim that intelligence tests do not accurately reflect the cognitive abilities of test-takers because it demonstrates that these tests are biased against students from disadvantaged backgrounds in particular. This bias makes it inaccurate for all test-takers, as these scores are measured relative to the population, so an inaccurate measurement of one portion of the population affects the relative measurement of all other portions. 
+Furthermore, the finding that these scores correlate with academic outcomes is also demonstrative of its bias, as academic outcomes of students from disadvantaged backgrounds do not accurately reflect their abilities, so this correlation is another lens to view this bias through. 
+It is imperative that intelligence tests are viewed in this light, as their results can demoralize students who are unfairly assessed by it, possibly reinforcing stereotype threats that will further cement these biaises.

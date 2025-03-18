@@ -1,0 +1,2 @@
+This is a [[Cluster B Personality Disorders|Cluster B]] personality [[psychological disorder|disorder]] characterized by a pervasive pattern of *grandiosity*, *attention-seeking behavior* and a *lack of empathy* for others
+This often results in exploitative behavior and difficulties in maintaining healthy relationships

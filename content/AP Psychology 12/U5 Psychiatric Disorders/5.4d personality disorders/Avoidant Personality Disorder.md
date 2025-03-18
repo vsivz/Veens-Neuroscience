@@ -1,0 +1,2 @@
+
+This is a [[Cluster C Personality Disorders|cluster C]] personality [[psychological disorder|disorder]] characterized by *social inhibition*, feeling *inadequate*, and *sensitivity to criticism*. This can lead to avoidance of social interactions. 

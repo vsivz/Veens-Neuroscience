@@ -1,0 +1,7 @@
+- Children are <mark class="ii">overly clingy</mark>
+- They're anxious about separation from their caregiver
+- Often show distress when caregiver leaves, but may resist comfort upon their return
+- avoids stranger, shows fear
+- cries more and explores less; cannot rely on their  needs being met
+- Stems from inconsistent caregiving
+- In adulthood, constantly crave acceptance but remain alert to possible signs of rejection

@@ -1,0 +1,7 @@
+- Children exhibit independence
+- they <mark class="ii">avoid seeking comfort from their caregiver</mark>, and shows little interest when primary caregiver returns
+- infant is okay with stranger and plays normally when stranger is present. 
+- Primary caregiver and stranger are able to provide comfort to the infant equally
+- Believes that needs probably wont be met
+- Often resulting from caregivers who are emotionally unavailable or unresponsive
+- In adulthood, experience discomfort when getting close to others, and use avoidant strategies to maintain distance from others

@@ -1,0 +1,1 @@
+A quantitative electroencephalogram is a neurophysiological assessment technique that analyzes brainwaves

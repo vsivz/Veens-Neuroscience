@@ -1,0 +1,2 @@
+<mark class="hv">Norman Triplett</mark> reported that adolescents would wind a fishing reel faster in the prescence of someone doing the same thing than they would alone.
+Modern analysis revealr a more modest difference than what Triplett reported.

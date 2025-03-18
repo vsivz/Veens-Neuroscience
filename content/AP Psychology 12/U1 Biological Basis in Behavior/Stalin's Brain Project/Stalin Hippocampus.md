@@ -1,0 +1,1 @@
+The [[hippocampus]] has been enlarged to represent Stalin's memory. Stalin was known to possess a remarkable memory. He would read 500 pages every night and was said to memorize all of it. He was also said to be able to hold very detailed maps in his memory, which was very useful while fighting against the Nazis.

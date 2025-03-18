@@ -1,0 +1,1 @@
+I have enlarged the [[Cerebellum]] to represent posture. In public, Stalin would stand upright with a stoic, rigid posture to convey authority. He did this because it was tantamount that in the precarious times he oversaw, from the rapid industrialization to the nazi invasion, he was trusted so his desicions could be carried out efficiently. 

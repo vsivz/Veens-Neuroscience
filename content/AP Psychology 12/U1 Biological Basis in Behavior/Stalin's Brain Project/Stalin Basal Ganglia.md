@@ -1,0 +1,1 @@
+The [[Basal Ganglia and ADHD]] is responsible for the maintenance of habitual behaviors. Although not directly related, Ive chosen to enlarge the Basal Ganglia to represent Stalin's rigid thinking, as it mirrors the Basal Ganglia's role in rigidly maintaining adherence to habits. Stalin was critisized by many, famously Mao, for his inflexibility and dogmatism in his thought. 

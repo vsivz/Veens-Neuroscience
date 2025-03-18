@@ -1,0 +1,3 @@
+- <mark class="ii">inconsistent or confused</mark> behavior towards a caregiver
+- Combination of anxious and avoidant
+- Often resulting from trauma or abuse.

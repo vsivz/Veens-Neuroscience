@@ -1,0 +1,1 @@
+*Stereotypic motor disorder* is a [[Motor Disorders|motor]] [[psychological disorder|disorder]], where people engage in *repetitive* and *unnecessary* motor movements, such as hand waving, body rocking, or self-biting

@@ -1,0 +1,1 @@
+This [[Cluster B Personality Disorders|Cluster B]] personality [[psychological disorder|disorder]] is characterized by *unstable self-image* and *relationships*, *impulsivity* and *intense fear of abandonment*
