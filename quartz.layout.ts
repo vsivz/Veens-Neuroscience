@@ -62,7 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
     linkDistance: 30,
     fontSize: 0.6,
     opacityScale: 1,
-    removeTags: [#definition], // what tags to remove from the graph
+    removeTags: ["definition"], // what tags to remove from the graph
     showTags: true, // whether to show tags in the graph
     enableRadial: true, // whether to constrain the graph, similar to Obsidian
   },
