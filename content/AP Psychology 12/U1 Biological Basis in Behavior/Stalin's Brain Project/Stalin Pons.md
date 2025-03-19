@@ -1,1 +1,0 @@
-I have chosen to shrink the [[Pons]] to represent Stalin's sleep. Stalin was known to have a very unusual sleep schedule. He was said to stay up late into the night, often as late as 4, and would wake up at around noon. 

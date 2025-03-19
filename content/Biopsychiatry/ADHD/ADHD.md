@@ -9,20 +9,4 @@ Causes:
 - Brain Structure/Function, primarily in the [[Prefrontal cortex|PFC]]
 - Environmental factors
 
-
-
-%% Begin Waypoint %%
-- **[[ADHD]]**
-	- [[ADHD in my brain]]
-	- **[[ADHD meds]]**
-	- [[Clearing Cognitive Load]]
-	- **[[Effects of my ADHD]]**
-	- [[Focus]]
-	- [[My Tips and Rules]]
-	- **[[Neurological Basis of ADHD]]**
-	- [[observations]]
-	- [[Psych Notes System]]
-	- [[September Homework Issue]]
-	- **[[Time Tracking]]**
-
-%% End Waypoint %%
+It has a strong [[Neurological Basis of ADHD|neurological basis]], and [[ADHD meds|its medication]] are among the most successful of [[5.5d drug therapies|psychotropic drugs]]
