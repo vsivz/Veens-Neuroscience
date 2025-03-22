@@ -1,6 +1,7 @@
 ---
 aliases:
   - antihistamine
+title: antihistamines
 ---
 
 Antihistamines are [[1.3b Drugs!|drugs]] that block the effects of [[histamine]], a chemical involved in allergic reactions, [[inflammation]], gastric acid secretion and [[neurotransmitter|neurotransmission]]

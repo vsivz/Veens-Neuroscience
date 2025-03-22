@@ -27,7 +27,7 @@
 	- Increases alpha wave activity; EEG has shown that out of all the waves from 0.5-30 Hz, the bands that have the lowest activity for me, relative to the average population are alpha bands, which have activity between 1.1 and 1.4 standard deviations *below* the average
 - [[Glycine]] - amazon.ca/ZenMax-Glycine-1000mg-Supplement-Gluten-Free/dp/B0DN4F15J9
 - [[Magnesium Glycinate]] - amazon.ca/Webber-Naturals-Magnesium-Bisglycinate-Vegetarian/dp/B08WVD2YDB
-- [[Magnesium Threonate]] - amazon.com/Supplements-MagteinTM-Patented-Magnesium-Capsules/dp/B00JEZQAFG
+- [[Magnesium L-Threonate]] - amazon.com/Supplements-MagteinTM-Patented-Magnesium-Capsules/dp/B00JEZQAFG
 
 
 #  Plan

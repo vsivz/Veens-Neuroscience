@@ -1,6 +1,7 @@
 ---
 aliases:
   - dopamine receptor
+title: dopamine receptors
 ---
 
 

@@ -1,4 +1,9 @@
-alpha-2 adrenergic receptor agonists are a class of drugs that work by stimulating [[alpha-2 receptors]], which are [[G-protein-coupled receptors|GPCRs]] located both in the [[Central Nervous System]] and the [[Peripheral Nervous System]]. 
+---
+title: Alpha-2 Adrenergic Receptor Agonist
+---
+
+
+alpha-2 adrenergic receptor agonists are a class of [[agonist|agonists]] that work by stimulating [[alpha-2 receptors]], which are [[G-protein-coupled receptors|GPCRs]] located both in the [[Central Nervous System]] and the [[Peripheral Nervous System]]. 
 
 Their activation generally leads to reduced release of [[norepinephrine]], which in turn modulates a variety of physiological and behavioral processes. 
 

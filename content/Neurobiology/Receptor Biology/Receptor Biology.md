@@ -2,7 +2,9 @@
 aliases:
   - receptor
   - receptors
+title: Receptor Biology
 ---
+
 A receptor is a specialized structure, protein, or cell that detects or responds to specific stimuli or signals.
 
 ###### My Notes

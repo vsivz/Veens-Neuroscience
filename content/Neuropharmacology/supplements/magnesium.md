@@ -1,7 +1,3 @@
----
-share_link: https://share.note.sx/jenh59z9
-share_updated: 2025-03-18T01:49:09-07:00
----
 
 ## Overview
 Magnesium is an essential mineral that plays several critical roles in the [[1.4b Brain Structure|brain]] and [[1.2 Overview of the Nervous System|Nervous System]]
@@ -35,6 +31,7 @@ These are [[glutamate]] receptors, so are key to [[excitatory neurotransmitter|e
 
 - Once the Mg$\mathsf{^{2+}}$ blockade is lifted, Ca$\mathsf{^{2+}}$ (and Na$\mathsf{^{2+}}$) ions flow into the neuron. The influx of Ca$\mathsf{^{2+}}$ is critical to the activation of intracellular signaling pathways that lead to [[long-term potentiation]] - a cellular model of learning and memory. 
 
+***
 ## Neuroprotection
 - By *blocking the channel at resting potentials*, magnesium prevents continuous Ca$\mathsf{^{2+}}$ entry, which could lead to calcium overload and excitotoxicity (a process that can damage or kill neurons.) This protective role is essential for maintaining the health of neural circuits. 
 
@@ -44,3 +41,4 @@ These are [[glutamate]] receptors, so are key to [[excitatory neurotransmitter|e
   by impacting [[cytokines|cytokine]] production and other inflammatory pathways, magnesium helps maintain a healthier neural environment
 
 - Altered magnesium levels have been linked to disorders such as [[5.4b Depressive Disorders|depression]] and [[5.4a Anxiety Disorders|anxiety]].
+

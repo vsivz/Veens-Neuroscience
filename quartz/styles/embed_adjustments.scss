@@ -127,6 +127,24 @@ h6) {
 .internal-embed[alt~=no-h6].markdown-embed h6 {
   display: none;
 }
+blockquote[alt~=no-h1] h1,
+.internal-embed[alt~=no-h2] .markdown-embed h2,
+.internal-embed[alt~=no-h3] .markdown-embed h3,
+.internal-embed[alt~=no-h4] .markdown-embed h4,
+.internal-embed[alt~=no-h5] .markdown-embed h5,
+.internal-embed[alt~=no-h6] .markdown-embed h6,
+.internal-embed[alt~=no-h1].markdown-embed h1,
+.internal-embed[alt~=no-h2].markdown-embed h2,
+.internal-embed[alt~=no-h3].markdown-embed h3,
+.internal-embed[alt~=no-h4].markdown-embed h4,
+.internal-embed[alt~=no-h5].markdown-embed h5,
+.internal-embed[alt~=no-h6].markdown-embed h6 {
+  display: none;
+}
+
+
+
+
 
 .internal-embed:is([alt~=no-margin], [alt~=nmg]) {
   --embed-padding: 0;

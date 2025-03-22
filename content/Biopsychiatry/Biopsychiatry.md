@@ -1,3 +1,6 @@
+---
+title: Biopsychiatry
+---
 
 Biopsychiatry is a branch of [[Psychiatry]] that focuses on understanding [[psychological disorder|psychiatric disorders]] through the lens of [[Biology|biological]] processes
 

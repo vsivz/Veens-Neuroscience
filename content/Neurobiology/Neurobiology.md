@@ -1,3 +1,7 @@
+---
+title: Neurobiology
+---
+
 Neurobiology is the study of the [[Biology]] of the [[1.2 Overview of the Nervous System|Nervous System]], including the [[1.4b Brain Structure|brain]], [[spinal cord]] & [[Peripheral Nervous System]], and its structure, function & development
 
 It focuses on understanding how [[neurons]] and their [[neural networks|networks]] work to:

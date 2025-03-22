@@ -3,6 +3,7 @@ aliases:
   - PFC
 share_link: https://share.note.sx/5uhmsmum
 share_updated: 2025-03-18T02:10:01-07:00
+title: Prefrontal Cortex
 ---
 
 The Prefrontal Cortex is located at the front of the [[frontal lobes]]. 

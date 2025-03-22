@@ -1,3 +1,7 @@
+---
+title: basal ganglia
+---
+
 The basal ganglia are a group of deep, [[Cerebral Cortex|subcortical]] [[nucleus|nuclei]] that play a central role not only in the fine-tuning and initiation of voluntary movement, but also in several non-motor functions, such as habit formation, decision-making, and reward processing. 
 
 ##### Overview

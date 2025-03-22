@@ -1,3 +1,7 @@
+---
+title: neuroanatomy
+---
+
 Neuroanatomy is the branch of anatomy that focuses on the structure and organization of the [[1.2 Overview of the Nervous System|Nervous System]]
 It involves studying the [[1.4b Brain Structure|brain]], [[spinal cord]] and [[Peripheral Nervous System]], including their cellular composition, connectivity and functional relationships
 

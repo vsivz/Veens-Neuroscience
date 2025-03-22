@@ -1,3 +1,7 @@
+---
+title: neurogenetics
+---
+
 
 Neurogenetics is the study of the role of [[genes]] in the development, function, and [[psychological disorder|disorders]] of the [[1.2 Overview of the Nervous System|Nervous System]]
 

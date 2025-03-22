@@ -1,6 +1,7 @@
 ---
 aliases:
   - serotonin receptor
+title: serotonin receptors
 ---
 
 Serotonin Receptors mediate the effects of [[serotonin]]
