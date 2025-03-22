@@ -1,4 +1,7 @@
-Veen's Neuroscience Vault
+---
+title: Veen's Neuroscience Research
+---
+
 
 ### Key areas of research:
 
@@ -17,14 +20,7 @@ Veen's Neuroscience Vault
 - the [[neuroanatomy]] of the [[basal ganglia]]
 
 ###### [[Biopsychiatry]] and General Psychiatry
+- [[insomnia]], the effects of [[chronic sleep deprivation]] & the functions of [[sleep]]
 - Neurobiological basis of conditions including [[Neurological Basis of ADHD|ADHD]], [[neurobiology of OCD|OCD]] & [[neurobiology of post-chronic stress depression|post-chronic stress (burnout) depression]]
 - The overlap between [[ADHD]], [[5.4b Depressive Disorders|depression]], [[5.4a Anxiety Disorders|anxiety]], [[autism spectrum disorder|ASD]] & [[obsessive-compulsive disorder|OCD]]
 - The role of trauma, and [[posttraumatic stress disorder|PTSD]] or [[C-PTSD]],  and their roles in ADHD and OCD especially, and anxiety and depression
-
-
-```dataview  
-TABLE round(file.size / 1024) as "File Size (kb)"
-WHERE !contains(file.path, "Excalidraw")
-SORT file.size desc
-LIMIT 25
-```
