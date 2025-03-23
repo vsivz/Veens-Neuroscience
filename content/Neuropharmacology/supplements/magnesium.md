@@ -1,4 +1,3 @@
-
 ## Overview
 Magnesium is an essential mineral that plays several critical roles in the [[1.4b Brain Structure|brain]] and [[1.2 Overview of the Nervous System|Nervous System]]
 
@@ -42,3 +41,19 @@ These are [[glutamate]] receptors, so are key to [[excitatory neurotransmitter|e
 
 - Altered magnesium levels have been linked to disorders such as [[5.4b Depressive Disorders|depression]] and [[5.4a Anxiety Disorders|anxiety]].
 
+## Role in Sleep
+Magnesium supplementation can help [[sleep]]
+
+###### Modulation of NMDA Receptors
+By modulating NMDA receptors, Magnesium helps prevent a hyperexcitable state of neurons, which can be a major barrier to initiating sleep. 
+
+###### Enhancement of GABA
+Magnesium is thought to interact at [[modulatory sites]] on the [[GABA-A  Receptor]]. 
+Interaction can enhance the receptor's responsiveness to [[GABA]].
+By blocking excess NMDA signaling, magnesium indirectly supports GABAergic function by preventing excessive neuronal activation that can override inhibitory signals. 
+
+###### Melatonin and Circadian Rhythms
+Although direct evidence is still emerging, since magnesium is known to serve as a cofactor in numerous enzymatic reactions, it it possible that magnesium could support the activity of enzymes that are responsible for the synthesis of [[melatonin]] from [[serotonin]].
+
+Altered magnesium levels have been linked in changes in [[clock gene]] expression. 
+This suggests that magnesium might help synchronize the molecular clocks within cells, ensuring that the timing of melatonin synthesis alights properly with environmental light-dark cycles. 
