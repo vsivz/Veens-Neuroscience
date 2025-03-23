@@ -1,5 +1,5 @@
 
-## Chemicals
+## Possible Chemicals
 
 ###### Medications:
 - *Prescription*
@@ -17,8 +17,8 @@
 - [[passionflower]] - amazon.ca/Passion-Flower-Extract-Capsules-350mg/dp/B01EIW5JE2
 - [[lemon balm]] - amazon.com/Paradise-Herbs-Balm-Vegetarian-Capsules/dp/B009LAMSIC
 
-- [[ashwaganda]] sensoril - amazon.com/Life-Extenson-Ashwagandha-Capsules-60-Count/dp/t
-- ashwaganda KSM-66 - amazon.com/NOW-Supplements-Ashwagandha®-Support-Capsules/dp/B0DHWGVVT2
+- [[Ashwagandha]] [[KSM-66]] - amazon.com/NOW-Supplements-Ashwagandha®-Support-Capsules/dp/B0DHWGVVT2
+- [[Ashwagandha Sensoril]] - amazon.com/Life-Extenson-Ashwagandha-Capsules-60-Count/dp/t
 - Reishi Mushroom
 - Holy Basil
 
@@ -32,6 +32,46 @@
 
 #  Plan
 
-#### Morning
-Taken in the morning
-###### *Magnesium L-Threonate*
+##### Morning
+Pre-Existing
+- Dextroamphetamine SR
+- Vortioxetine
+- Symbicort (Formeterol + Budesonide)
+- 
+- L-Tyrosine
+- Vitamin D
+- Vitamin C
+- L-Theanine
+- Probiotics (Seed DS-01)
+- Omega 3 (1000mg EPA, 100mg DHA)
+
+New
+- Magnesium L-Threonate -> For Cognitive Benefits
+- Huperzine A -> Cycle 3-5 Days Per Week
+- CDP-Choline -> Reduce anticholinergic effects of doxylamine and diphenhydramine
+- KSM-66 -> For Cognitive Benefits
+
+
+#### Afternoon
+Pre-Existing:
+- Lisdexamfetamine
+- Dextroamphetamine IR
+
+
+#### Evening
+- Magnesium Glycinate
+- L-Theanine
+- Taurine
+- Glycine
+- Apigenin
+- Sensoril
+
+#### Shortly Before Bed
+- Glycine
+- Passionflower (If taking; Cycles with Valerian)
+- Melatonin
+
+#### Before Bed
+- Guanfacine
+- Valerian (if taking)
+- Doxylamine / Diphenhydramine

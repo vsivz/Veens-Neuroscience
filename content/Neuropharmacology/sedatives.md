@@ -1,3 +1,8 @@
+---
+aliases:
+  - sedative
+---
+
 sedatives are a class of drugs that [[depressants|depress]] the [[Central Nervous System]] to produce calming effects, reduce [[5.4a Anxiety Disorders|anxiety]] and promote [[sleep]]
 
 They are widely used to treat [[5.4a Anxiety Disorders|anxiety disorders]], [[insomnia]], muscle spasms, and seizures. 
